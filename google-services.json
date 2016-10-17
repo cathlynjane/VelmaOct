@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "1035908077779",
+    "firebase_url": "https://velma-143505.firebaseio.com",
+    "project_id": "velma-143505",
+    "storage_bucket": "velma-143505.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035908077779:android:b03013251e19cbf9",
+        "android_client_info": {
+          "package_name": "velmalatest.garciano.com.velmalatest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035908077779-jo84euutautp1ts08pq17ck7oa8suced.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "velmalatest.garciano.com.velmalatest",
+            "certificate_hash": "EFF9697BC03C489447933036583C8D4C19752DDF"
+          }
+        },
+        {
+          "client_id": "1035908077779-a68rflp2lu4caaijo3r6smpmbfvle1ic.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1035908077779-bu359a49s28ged1irmatlpf96tadks0j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmRzp9WsFnbSl7RfUrbIXYFC9o1pOeF34"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035908077779-a68rflp2lu4caaijo3r6smpmbfvle1ic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
